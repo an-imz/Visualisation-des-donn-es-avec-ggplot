@@ -1,4 +1,4 @@
-# Visualisation-des-donnees-avec-ggplot
+# 101-with-ggplot
 
 Introduction à la visualisation des données avec ggplot.
 - graphiques univariés
